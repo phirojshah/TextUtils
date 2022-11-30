@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-website Link: www.phirojshah.github.io.com\TextUtils
+website Link: www.phirojshah.github.io.com/TextUtils
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
