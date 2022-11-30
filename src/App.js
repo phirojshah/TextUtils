@@ -36,7 +36,7 @@ function App() {
   }, 1500)
 
   return (
-    <div >
+    <div className='container'>
       <Navbar mode={mode} ToggleMode={ToggleMode} />
       <Alert alert={alert} />
 
